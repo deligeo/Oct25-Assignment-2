@@ -1,5 +1,15 @@
 # Oct25-Assignment-2 🎉
 
+## Table of Contents
+- [Assignment 2 🎉](#assignment-2)
+- [Description](#description)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Known Bugs](#known-bugs)
+- [Future Features](#future-features)
+- [Contributors](#contributors)
+- [Instructions](#instructions)
+
 ## Description
 This is for Assignment 2, where we create a simple HTML, CSS, and JavaScript web page. 🌐
 
@@ -26,13 +36,3 @@ This is for Assignment 2, where we create a simple HTML, CSS, and JavaScript web
 1. Clone the repository. 📦
 2. Open `index.html` in your web browser to view the main page. 🌍
 3. Navigate to `contact.html` for the contact page. ➡️
-
-## Table of Contents
-- [Assignment 2 🎉](#assignment-2)
-- [Description](#description)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Known Bugs](#known-bugs)
-- [Future Features](#future-features)
-- [Contributors](#contributors)
-- [Instructions](#instructions)
